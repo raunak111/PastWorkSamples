@@ -15,11 +15,22 @@
 
 ## A few samples of animation and illustrations for the exercise app I worked with:
 
-clouds loading screen: https://youtu.be/oMUhpHQX5GY
+> clouds loading screen:
 
-instruction to exercise: https://youtu.be/GB7CDvw781c
+https://user-images.githubusercontent.com/37953138/128576426-66eeb30a-8535-4ec0-aabf-d9864d9f5964.mp4
 
-pigeon moving down the street: https://youtu.be/E2WxDf9tdiQ
+
+> instruction to exercise: 
+
+https://user-images.githubusercontent.com/37953138/128576503-b7ca5da1-03c9-4856-9329-43b432d82ff0.mp4
+
+
+
+pigeon moving down the street: 
+
+https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-adae-3ed7bf879ac0.mp4
+
+
 
 Some illustrations I made:
 ![hoop](https://user-images.githubusercontent.com/37953138/128575552-f7663575-a05c-49ee-bd78-47da63238fb7.png)
