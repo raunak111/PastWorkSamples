@@ -4,16 +4,19 @@
 
 ## A few samples of animation and illustrations for the exercise app I worked with:
 
+<br />
+
 > clouds loading screen:
 
 https://user-images.githubusercontent.com/37953138/128576426-66eeb30a-8535-4ec0-aabf-d9864d9f5964.mp4
 
+<br />
 
 > instruction to exercise: 
 
 https://user-images.githubusercontent.com/37953138/128576503-b7ca5da1-03c9-4856-9329-43b432d82ff0.mp4
 
-
+<br />
 
 > pigeon moving down the street: 
 
@@ -64,12 +67,13 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 ![blueberry](https://user-images.githubusercontent.com/37953138/128645124-3168b4c7-1e82-48dd-85c6-29c150c25a4f.png)
 ![chia seed](https://user-images.githubusercontent.com/37953138/128645131-61db2664-69f1-47a2-b11d-152ca1ed088d.png)
 
-## The video I made 2 years ago: https://youtu.be/iF0KQQFqxCE
+## The video I made 2 years ago: 
 
-(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then)
+[![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128645722-f38c0696-eb47-45ba-bd31-c1ac34a18dab.jpg)](https://youtu.be/iF0KQQFqxCE)
 
+(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animator refrence of character animation)
 
-
+<br />
 
 ## A Freeplay inspirational game I made when learning game development: (only Android)
 https://drive.google.com/file/d/1PzTKJgqITuzY_Tro1KDqXjRPiqpIPpXU/view?usp=sharing
