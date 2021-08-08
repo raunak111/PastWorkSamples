@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 
 [![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128646209-a436e7ec-db1d-4214-8b0a-5a7e78c9ea6d.png)](https://youtu.be/iF0KQQFqxCE)
 
-(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animator refrence of character animation)
+(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animation refrence)
 
 <br />
 
