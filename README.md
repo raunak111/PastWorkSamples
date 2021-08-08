@@ -25,16 +25,29 @@
 > Home screen for merchandiser
 ![image](https://user-images.githubusercontent.com/37953138/128647418-0a94d570-97e4-44fe-86a6-afc586eecf42.png)
 
+> Home screen for Admin
+![image](https://user-images.githubusercontent.com/37953138/128647547-ad171caa-8081-4f09-bd78-fa995d5396a8.png)
+
 > Chat Screen for people collaborating
 ![image](https://user-images.githubusercontent.com/37953138/128647428-7e758abb-e998-4ff2-bf9a-a320ecc55246.png)
 
+<br />
+
 > Design files
+
 Merchandiser: https://www.figma.com/file/fKO7L7ClMfFgIJA81YQK3l/Merchandiser
+
 Admin: https://www.figma.com/file/qsPu5MJ59iPuBy4pl48xw3/Admin
 
+<br />
+
 > Working Prototype
+
 Merchandiser: https://www.figma.com/proto/fKO7L7ClMfFgIJA81YQK3l/Merchandiser?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3
 
+Admin: https://www.figma.com/proto/qsPu5MJ59iPuBy4pl48xw3/Admin?node-id=106%3A7860&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3
+
+<br />
 
 ## A few samples of animation and illustrations for the exercise app I worked with:
 
