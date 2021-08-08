@@ -1,13 +1,21 @@
-## e-commerce website:
+## E-commerce website:
 
 [![tap on image to go to the website](https://user-images.githubusercontent.com/37953138/128646768-95501607-ee1e-45a7-8b51-3085f135ae64.png)](http://gostore.co.vu/)
+<p align="center">
+ 🔗http://gostore.co.vu/
+ 
+ <br />
+ </p>
+ <p align="center">
+ If it shows warning, please click on advanced and proceed to the website
+</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/37953138/128646296-272b0bcc-b477-42df-9cc3-24078f0adb97.png" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/37953138/128575558-4f0e51ce-1b5e-41e7-98cc-11125b6235c4.png" width="50%" height="50%">
-
+<p align="center">
+  
+</p>
 <br />
 
 ## A few samples of animation and illustrations for the exercise app I worked with:
