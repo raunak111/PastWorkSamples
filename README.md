@@ -18,6 +18,24 @@
 </p>
 <br />
 
+## Screens and design files I made for a web app:
+> Login
+![image](https://user-images.githubusercontent.com/37953138/128647394-7d75a28a-d963-4bae-ae99-3aab6f9a4916.png)
+
+> Home screen for merchandiser
+![image](https://user-images.githubusercontent.com/37953138/128647418-0a94d570-97e4-44fe-86a6-afc586eecf42.png)
+
+> Chat Screen for people collaborating
+![image](https://user-images.githubusercontent.com/37953138/128647428-7e758abb-e998-4ff2-bf9a-a320ecc55246.png)
+
+> Design files
+Merchandiser: https://www.figma.com/file/fKO7L7ClMfFgIJA81YQK3l/Merchandiser
+Admin: https://www.figma.com/file/qsPu5MJ59iPuBy4pl48xw3/Admin
+
+> Working Prototype
+Merchandiser: https://www.figma.com/proto/fKO7L7ClMfFgIJA81YQK3l/Merchandiser?node-id=0%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A3
+
+
 ## A few samples of animation and illustrations for the exercise app I worked with:
 
 <br />
@@ -45,6 +63,14 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 
 <img src="https://user-images.githubusercontent.com/37953138/128575552-f7663575-a05c-49ee-bd78-47da63238fb7.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/37953138/128575558-4f0e51ce-1b5e-41e7-98cc-11125b6235c4.png" width="50%" height="50%">
 
+
+<br />
+
+## The video I made 2 years ago: 
+
+[![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128646209-a436e7ec-db1d-4214-8b0a-5a7e78c9ea6d.png)](https://youtu.be/iF0KQQFqxCE)
+
+(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animator refrence of character animation)
 
 <br />
 
@@ -83,13 +109,8 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 ![blueberry](https://user-images.githubusercontent.com/37953138/128645124-3168b4c7-1e82-48dd-85c6-29c150c25a4f.png)
 ![chia seed](https://user-images.githubusercontent.com/37953138/128645131-61db2664-69f1-47a2-b11d-152ca1ed088d.png)
 
-## The video I made 2 years ago: 
-
-[![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128646209-a436e7ec-db1d-4214-8b0a-5a7e78c9ea6d.png)](https://youtu.be/iF0KQQFqxCE)
-
-(it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animator refrence of character animation)
-
 <br />
 
 ## A Freeplay inspirational game I made when learning game development: (only Android)
-https://drive.google.com/file/d/1PzTKJgqITuzY_Tro1KDqXjRPiqpIPpXU/view?usp=sharing
+
+> APK file link : https://drive.google.com/file/d/1PzTKJgqITuzY_Tro1KDqXjRPiqpIPpXU/view?usp=sharing
