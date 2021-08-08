@@ -15,15 +15,17 @@ https://user-images.githubusercontent.com/37953138/128576503-b7ca5da1-03c9-4856-
 
 
 
-pigeon moving down the street: 
+> pigeon moving down the street: 
 
 https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-adae-3ed7bf879ac0.mp4
 
 
+<br />
 
-Some illustrations I made:
-![hoop](https://user-images.githubusercontent.com/37953138/128575552-f7663575-a05c-49ee-bd78-47da63238fb7.png)
-![cone](https://user-images.githubusercontent.com/37953138/128575558-4f0e51ce-1b5e-41e7-98cc-11125b6235c4.png)
+> Some illustrations I made:
+
+<img src="https://user-images.githubusercontent.com/37953138/128575552-f7663575-a05c-49ee-bd78-47da63238fb7.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/37953138/128575558-4f0e51ce-1b5e-41e7-98cc-11125b6235c4.png" width="50%" height="50%">
+
 
 <br />
 
