@@ -27,6 +27,11 @@
 
 ## A few samples of product labels I designed for dried seeds and berries:
 
+![mix fruit berry](https://user-images.githubusercontent.com/37953138/128645115-32ab1deb-ce2f-4ee6-981d-45d0e93e1be7.png)
+![flax seed roasted](https://user-images.githubusercontent.com/37953138/128645119-6d78fa06-a7a0-4666-a202-8f35eebbd5e5.png)
+![blueberry](https://user-images.githubusercontent.com/37953138/128645124-3168b4c7-1e82-48dd-85c6-29c150c25a4f.png)
+![chia seed](https://user-images.githubusercontent.com/37953138/128645131-61db2664-69f1-47a2-b11d-152ca1ed088d.png)
+
 ## The video I made 2 years ago: https://youtu.be/iF0KQQFqxCE
 
 (it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then)
