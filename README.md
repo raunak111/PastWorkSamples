@@ -1,5 +1,13 @@
 ## e-commerce website:
 
+[![tap on image to go to the website](https://user-images.githubusercontent.com/37953138/128646768-95501607-ee1e-45a7-8b51-3085f135ae64.png)](http://gostore.co.vu/)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/37953138/128646296-272b0bcc-b477-42df-9cc3-24078f0adb97.png" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/37953138/128575558-4f0e51ce-1b5e-41e7-98cc-11125b6235c4.png" width="50%" height="50%">
+
 <br />
 
 ## A few samples of animation and illustrations for the exercise app I worked with:
@@ -69,7 +77,7 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 
 ## The video I made 2 years ago: 
 
-[![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128645722-f38c0696-eb47-45ba-bd31-c1ac34a18dab.jpg)](https://youtu.be/iF0KQQFqxCE)
+[![tap on image to play it on youtube](https://user-images.githubusercontent.com/37953138/128646209-a436e7ec-db1d-4214-8b0a-5a7e78c9ea6d.png)](https://youtu.be/iF0KQQFqxCE)
 
 (it’s might feel quite boring and the animation a bit laggy, as I didn’t know about a lot of things about the upload process then. Putting it here for the character animator refrence of character animation)
 
