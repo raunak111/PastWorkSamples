@@ -1,11 +1,12 @@
 ## E-commerce website:
 
-[![tap on image to go to the website](https://user-images.githubusercontent.com/37953138/128646768-95501607-ee1e-45a7-8b51-3085f135ae64.png)](http://gostore.co.vu/)
+[![tap on image to go to the website](https://user-images.githubusercontent.com/37953138/128646768-95501607-ee1e-45a7-8b51-3085f135ae64.png)](https://govindstore.com/)
 <p align="center">
- 🔗http://gostore.co.vu/
+ 🔗https://govindstore.com/
  
  <br />
- </p>
+<!-- 
+</p>
  <p align="center">
  If it shows warning, please click on advanced and proceed to the website
 </p>
@@ -13,6 +14,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/37953138/128646296-272b0bcc-b477-42df-9cc3-24078f0adb97.png" />
 </p>
+-->
 <p align="center">
   
 </p>
