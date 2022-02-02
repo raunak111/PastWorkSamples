@@ -102,7 +102,8 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 <br />
 
 ## A few samples of product labels I designed for a merchandised product (Khakra):
-![Tomato Khakra](https://user-images.githubusercontent.com/37953138/152168229-2628c95f-f823-4e54-b630-a12a6977ef4c.png)
+
+![Tomato Khakra](https://user-images.githubusercontent.com/37953138/152176018-3dd6031f-59e4-442b-81fc-66de1bd03acc.png)
 ![Chowmein Khakra](https://user-images.githubusercontent.com/37953138/128577527-18a49f4a-82a5-4831-9201-cfd3daaf5079.png)
 ![Pudina Khakra](https://user-images.githubusercontent.com/37953138/128577540-70d9301a-1750-4a8d-b5d9-9c4548b49c51.png)
 
