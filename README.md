@@ -102,18 +102,18 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 <br />
 
 ## A few samples of product labels I designed for a merchandised product (Khakra):
+![Tomato Khakra](https://user-images.githubusercontent.com/37953138/152168229-2628c95f-f823-4e54-b630-a12a6977ef4c.png)
 ![Chowmein Khakra](https://user-images.githubusercontent.com/37953138/128577527-18a49f4a-82a5-4831-9201-cfd3daaf5079.png)
-![Pani Puri Khakra](https://user-images.githubusercontent.com/37953138/128577534-0920cdad-5db3-4ed3-9163-87a54c2fc225.png)
 ![Pudina Khakra](https://user-images.githubusercontent.com/37953138/128577540-70d9301a-1750-4a8d-b5d9-9c4548b49c51.png)
+
 
 <br />
 
 ## A few samples for product labels I designed for bottled supari and churan:
 
-![Silver Gulab Supari](https://user-images.githubusercontent.com/37953138/128645370-ea2f920e-53f6-41b3-bcb3-1716599b3fdb.png)
-![Aplam Chaplam](https://user-images.githubusercontent.com/37953138/128645371-fdd01f77-c879-4e73-9ce1-4e727e1e07fd.png)
-![Ajwain Pachak](https://user-images.githubusercontent.com/37953138/128645372-cb0b5380-906e-44b5-a50c-609cfa3f13c2.png)
-![Ber Kutti](https://user-images.githubusercontent.com/37953138/128645373-e08aeb71-47e4-4c0a-8422-3981dee1d700.png)
+![Silver Softy new](https://user-images.githubusercontent.com/37953138/152169675-987e545d-955d-41be-8fd3-0105871b2f5b.png)
+![Adrak Paachak](https://user-images.githubusercontent.com/37953138/152169759-631a7daf-c20b-4252-bbca-77cff6ed7289.png)
+![Imli Laddu new](https://user-images.githubusercontent.com/37953138/152170790-3208c000-1e2e-4a13-8fa4-71c7f306ec2d.png)
 
 <br />
 
