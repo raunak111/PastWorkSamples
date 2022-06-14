@@ -119,10 +119,10 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 
 ## A few samples of product labels I designed for dried seeds and berries:
 
-![mix fruit berry](https://user-images.githubusercontent.com/37953138/128645115-32ab1deb-ce2f-4ee6-981d-45d0e93e1be7.png)
-![flax seed roasted](https://user-images.githubusercontent.com/37953138/128645119-6d78fa06-a7a0-4666-a202-8f35eebbd5e5.png)
 ![blueberry](https://user-images.githubusercontent.com/37953138/173521653-f1e895c2-1cf3-40ea-8a44-6189529af4ac.png)
 ![cranberry](https://user-images.githubusercontent.com/37953138/173521661-1c0986e4-053e-4117-97f4-68616bb8c027.png)
+![mix fruit berry](https://user-images.githubusercontent.com/37953138/128645115-32ab1deb-ce2f-4ee6-981d-45d0e93e1be7.png)
+![flax seed roasted](https://user-images.githubusercontent.com/37953138/128645119-6d78fa06-a7a0-4666-a202-8f35eebbd5e5.png)
 
 <br />
 
