@@ -107,14 +107,13 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 ![Chowmein Khakra](https://user-images.githubusercontent.com/37953138/128577527-18a49f4a-82a5-4831-9201-cfd3daaf5079.png)
 ![Pudina Khakra](https://user-images.githubusercontent.com/37953138/128577540-70d9301a-1750-4a8d-b5d9-9c4548b49c51.png)
 
-
 <br />
 
 ## A few samples for product labels I designed for bottled supari and churan:
 
 ![Silver Softy new](https://user-images.githubusercontent.com/37953138/152169675-987e545d-955d-41be-8fd3-0105871b2f5b.png)
 ![Adrak Paachak](https://user-images.githubusercontent.com/37953138/152169759-631a7daf-c20b-4252-bbca-77cff6ed7289.png)
-![Imli Laddu new](https://user-images.githubusercontent.com/37953138/152170790-3208c000-1e2e-4a13-8fa4-71c7f306ec2d.png)
+![Jeera Vati](https://user-images.githubusercontent.com/37953138/173522596-ab9e24d0-e86d-49d8-a6d9-d7ba421a2e4f.png)
 
 <br />
 
@@ -122,8 +121,8 @@ https://user-images.githubusercontent.com/37953138/128576527-2000e7fb-9a47-4749-
 
 ![mix fruit berry](https://user-images.githubusercontent.com/37953138/128645115-32ab1deb-ce2f-4ee6-981d-45d0e93e1be7.png)
 ![flax seed roasted](https://user-images.githubusercontent.com/37953138/128645119-6d78fa06-a7a0-4666-a202-8f35eebbd5e5.png)
-![blueberry](https://user-images.githubusercontent.com/37953138/128645124-3168b4c7-1e82-48dd-85c6-29c150c25a4f.png)
-![chia seed](https://user-images.githubusercontent.com/37953138/128645131-61db2664-69f1-47a2-b11d-152ca1ed088d.png)
+![blueberry](https://user-images.githubusercontent.com/37953138/173521653-f1e895c2-1cf3-40ea-8a44-6189529af4ac.png)
+![cranberry](https://user-images.githubusercontent.com/37953138/173521661-1c0986e4-053e-4117-97f4-68616bb8c027.png)
 
 <br />
 
